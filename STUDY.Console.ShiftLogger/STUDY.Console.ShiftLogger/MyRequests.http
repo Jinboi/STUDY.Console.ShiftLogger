@@ -8,12 +8,20 @@ POST http://localhost:5127/todos
 content-type: application/json
 
 {
-  "id": 1,
+  "id": 2,
   "name": "Write demo",
-  "dueDate": "2023-12-31",
+  "dueDate": "2026-12-31",
   "isCompleted": false
 }
 
+###
 
+GET http://localhost:5127/todos/2
 
 ###
+
+DELETE http://localhost:5127/todos/2
+
+###
+
+GET http://localhost:5127/tasks/1

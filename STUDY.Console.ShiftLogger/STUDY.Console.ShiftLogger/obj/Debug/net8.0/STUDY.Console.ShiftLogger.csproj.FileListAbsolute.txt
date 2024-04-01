@@ -24,3 +24,29 @@ C:\MEGA\WIP\03-GitPush\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY
 C:\MEGA\WIP\03-GitPush\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.pdb
 C:\MEGA\WIP\03-GitPush\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.genruntimeconfig.cache
 C:\MEGA\WIP\03-GitPush\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\ref\STUDY.Console.ShiftLogger.dll
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\bin\Debug\net8.0\appsettings.json
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\bin\Debug\net8.0\STUDY.Console.ShiftLogger.exe
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\bin\Debug\net8.0\STUDY.Console.ShiftLogger.deps.json
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\bin\Debug\net8.0\STUDY.Console.ShiftLogger.runtimeconfig.json
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\bin\Debug\net8.0\STUDY.Console.ShiftLogger.dll
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\bin\Debug\net8.0\STUDY.Console.ShiftLogger.pdb
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.AssemblyInfoInputs.cache
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.AssemblyInfo.cs
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.csproj.CoreCompileInputs.cache
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.sourcelink.json
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\staticwebassets\msbuild.STUDY.Console.ShiftLogger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\staticwebassets\msbuild.build.STUDY.Console.ShiftLogger.props
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.STUDY.Console.ShiftLogger.props
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.STUDY.Console.ShiftLogger.props
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\scopedcss\bundle\STUDY.Console.ShiftLogger.styles.css
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.dll
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\refint\STUDY.Console.ShiftLogger.dll
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.pdb
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\STUDY.Console.ShiftLogger.genruntimeconfig.cache
+C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\STUDY.Console.ShiftLogger\obj\Debug\net8.0\ref\STUDY.Console.ShiftLogger.dll
