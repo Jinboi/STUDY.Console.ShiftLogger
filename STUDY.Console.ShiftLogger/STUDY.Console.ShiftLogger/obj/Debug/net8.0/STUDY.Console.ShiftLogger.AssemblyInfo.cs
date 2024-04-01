@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STUDY.Console.ShiftLogger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21bcb58fe79065f8e6e4f2be4d3db4c6d5ccff43")]
 [assembly: System.Reflection.AssemblyProductAttribute("STUDY.Console.ShiftLogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STUDY.Console.ShiftLogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

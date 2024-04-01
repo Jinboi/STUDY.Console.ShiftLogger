@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duddn\\source\\repos\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger.csproj": {}
+    "C:\\MEGA\\WIP\\03-GitPush\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duddn\\source\\repos\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger.csproj": {
+    "C:\\MEGA\\WIP\\03-GitPush\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duddn\\source\\repos\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger.csproj",
+        "projectUniqueName": "C:\\MEGA\\WIP\\03-GitPush\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger.csproj",
         "projectName": "STUDY.Console.ShiftLogger",
-        "projectPath": "C:\\Users\\duddn\\source\\repos\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger.csproj",
+        "projectPath": "C:\\MEGA\\WIP\\03-GitPush\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger.csproj",
         "packagesPath": "C:\\Users\\duddn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duddn\\source\\repos\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\obj\\",
+        "outputPath": "C:\\MEGA\\WIP\\03-GitPush\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\STUDY.Console.ShiftLogger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
