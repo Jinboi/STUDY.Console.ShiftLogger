@@ -1,6 +1,0 @@
-@STUDY.ASP.ShiftLoggerTryThree_HostAddress = http://localhost:5250
-
-GET {{STUDY.ASP.ShiftLoggerTryThree_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

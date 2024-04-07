@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STUDY.ASP.ShiftLoggerTrySix", "STUDY.ASP.ShiftLoggerTrySix\STUDY.ASP.ShiftLoggerTrySix.csproj", "{1EA55735-0F82-40F7-8A74-1509E734A7ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA55735-0F82-40F7-8A74-1509E734A7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA55735-0F82-40F7-8A74-1509E734A7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA55735-0F82-40F7-8A74-1509E734A7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA55735-0F82-40F7-8A74-1509E734A7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EEF4476-5E91-4860-A767-01B0BC489F63}
+	EndGlobalSection
+EndGlobal

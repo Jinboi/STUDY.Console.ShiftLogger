@@ -1,0 +1,18 @@
+@STUDY.ASP.ShiftLoggerTrySix_HostAddress = http://localhost:5156
+
+GET {{STUDY.ASP.ShiftLoggerTrySix_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{STUDY.ASP.ShiftLoggerTrySix_HostAddress}}/person/
+Content-Type: application/json
+
+
+{
+  "id": 0,
+  "firstName": "Mary",
+  "lastName": "Smith"
+}
+
+###
