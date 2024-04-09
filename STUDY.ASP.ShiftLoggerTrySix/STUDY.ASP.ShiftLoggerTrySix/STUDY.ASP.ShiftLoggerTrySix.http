@@ -10,8 +10,8 @@ Content-Type: application/json
 {
   "Id": 1,
   "EmployeeId": 2,
-  "ClockIn": "2023-12-30",
-  "ClockOut": "2023-01-01",
+  "ClockIn": "2023-12-30T12:12:12",
+  "ClockOut": "2023-12-30T13:13:00",
   "isDoneWorking": false
 }
 
