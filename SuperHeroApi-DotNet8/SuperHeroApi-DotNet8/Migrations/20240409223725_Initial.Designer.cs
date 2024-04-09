@@ -11,7 +11,7 @@ using SuperHeroApi_DotNet8.Data;
 namespace SuperHeroApi_DotNet8.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240409065740_Initial")]
+    [Migration("20240409223725_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
