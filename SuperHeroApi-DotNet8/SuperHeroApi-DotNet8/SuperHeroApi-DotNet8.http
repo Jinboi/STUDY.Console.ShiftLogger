@@ -13,3 +13,12 @@ GET {{SuperHeroApi-DotNet8_HostAddress}}/weatherforecast
 GET {{SuperHeroApi-DotNet8_HostAddress}}/api/superhero
 
 ###
+
+POST {{SuperHeroApi-DotNet8_HostAddress}}/api/superhero
+Content-Type: application/json
+
+{
+  //SuperHero
+}
+
+###

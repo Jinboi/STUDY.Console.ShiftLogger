@@ -25,13 +25,52 @@ namespace SuperHeroApi_DotNet8.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<List<SuperHero>>> GetHero(int id)
+        public async Task<ActionResult<SuperHero>> GetHero(int id)
         {
             var hero = await _context.SuperHeroes.FindAsync(id);
             if(hero is null)
                 return NotFound("Hero not found.");
 
             return Ok(hero);
+        }
+
+        [HttpPost]
+        public async Task<ActionResult<List<SuperHero>>> AddHero([FromBody]SuperHero hero)
+        {
+            _context.SuperHeroes.Add(hero);
+            await _context.SaveChangesAsync();
+
+            return Ok(await _context.SuperHeroes.ToListAsync());
+        }
+
+        [HttpPut]
+        public async Task<ActionResult<List<SuperHero>>> UpdateHero(SuperHero updatedHero)
+        {
+            var dbHero = await _context.SuperHeroes.FindAsync(updatedHero.Id);
+            if (dbHero is null)
+                return NotFound("Hero not found.");
+
+            dbHero.Name = updatedHero.Name;
+            dbHero.FirstName = updatedHero.FirstName;
+            dbHero.LastName = updatedHero.LastName;
+            dbHero.Place = updatedHero.Place;
+
+            await _context.SaveChangesAsync();
+
+            return Ok(await _context.SuperHeroes.ToListAsync());
+        }
+
+        [HttpDelete]
+        public async Task<ActionResult<List<SuperHero>>> DeleteHero(int id)
+        {
+            var dbHero = await _context.SuperHeroes.FindAsync(id);
+            if (dbHero is null)
+                return NotFound("Hero not found.");
+
+            _context.SuperHeroes.Remove(dbHero);     
+            await _context.SaveChangesAsync();
+
+            return Ok(await _context.SuperHeroes.ToListAsync());
         }
     }
 }
